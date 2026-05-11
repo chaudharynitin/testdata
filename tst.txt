@@ -1,0 +1,3 @@
+TICKET: IT-21103
+Summary: Missing KBA : assign admin prilivages (newtonbot)
+Region: Not Specified
